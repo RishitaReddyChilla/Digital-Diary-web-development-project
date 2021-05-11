@@ -9,7 +9,7 @@ Fill the database entries using phpmyadmin with the help of "Database details.pd
 Create a new folder in htdocs folder of xampp folder in your system.
 Download all the files from this repo and store these in this newly created folder.
 
-#### LOGIN PAGE
+#### **LOGIN PAGE**
 ![image](https://user-images.githubusercontent.com/66554341/117694862-42b55180-b1dd-11eb-8e79-5c3e5e8f16a1.png)
 <br>
 #### REGISTRATION PAGE
